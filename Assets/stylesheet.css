@@ -55,3 +55,12 @@ header {
   }
   
   /* HEADER / NAVBAR STYLES END */
+
+  /* Contact me */
+  .row {
+    display: flex;
+  }
+  
+  .column {
+    flex: 50%;
+  }
