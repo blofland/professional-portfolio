@@ -64,3 +64,9 @@ header {
   .column {
     flex: 50%;
   }
+
+  img {
+    width: 300px;
+    height: 300px;
+    margin: 0 15px;
+  }
