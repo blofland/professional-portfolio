@@ -63,6 +63,8 @@ header {
   
   .column {
     flex: 50%;
+    margin-left: 100px;
+    font-size: large;
   }
 
   img {
@@ -70,3 +72,9 @@ header {
     height: 300px;
     margin: 0 15px;
   }
+
+  .left {
+    font-size: 50px;
+    vertical-align: middle;
+  }
+ 
