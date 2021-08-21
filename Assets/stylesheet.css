@@ -78,3 +78,11 @@ header {
     vertical-align: middle;
   }
  
+  .contactme {
+    text-align: center;
+  }
+
+  .lilimg {
+    height: 100px;
+    width: 100px;
+  }
