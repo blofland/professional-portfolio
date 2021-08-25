@@ -86,3 +86,7 @@ header {
     height: 100px;
     width: 100px;
   }
+
+  .roundedcorners {
+    border-radius: 30px;
+  }
